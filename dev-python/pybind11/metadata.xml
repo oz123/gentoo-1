@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer type="person">
+	<name>Oz Tiram</name>
+	<email>oz.tiram@gmail.com</email>
+</maintainer>
+<maintainer type="project">
+	<email>proxy-maint@gentoo.org</email>
+	<name>Proxy Maintainers</name>
+</maintainer>
+<longdescription lang="en">
+	pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa, mainly to create Python bindings of existing C++ code. Its goals and syntax are similar to the excellent Boost.Python library by David Abrahams: to minimize boilerplate code in traditional extension modules by inferring type information using compile-time introspection.
+</longdescription>
+<upstream>
+	<remote-id type="github">pikepdf/pikepdf</remote-id>
+</upstream>
+</pkgmetadata>
